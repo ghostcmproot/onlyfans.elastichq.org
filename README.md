@@ -1,2 +1,1 @@
-# onlyfans.elastichq.org
-only fans
+# Only Fans

